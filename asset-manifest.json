@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Suman-1828/my-portfolio.git/static/css/main.a3df65bf.css",
+    "main.js": "/Suman-1828/my-portfolio.git/static/js/main.cd9f33d3.js",
+    "static/js/453.acca0757.chunk.js": "/Suman-1828/my-portfolio.git/static/js/453.acca0757.chunk.js",
+    "static/media/profile-image.jpg": "/Suman-1828/my-portfolio.git/static/media/profile-image.fd992b8740428f8ff16a.jpg",
+    "index.html": "/Suman-1828/my-portfolio.git/index.html",
+    "main.a3df65bf.css.map": "/Suman-1828/my-portfolio.git/static/css/main.a3df65bf.css.map",
+    "main.cd9f33d3.js.map": "/Suman-1828/my-portfolio.git/static/js/main.cd9f33d3.js.map",
+    "453.acca0757.chunk.js.map": "/Suman-1828/my-portfolio.git/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3df65bf.css",
+    "static/js/main.cd9f33d3.js"
+  ]
+}
