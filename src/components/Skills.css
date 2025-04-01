@@ -1,0 +1,40 @@
+/* src/components/Skills.css */
+.skills {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+
+  .skills h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .skills-category {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    width: 200px;
+  }
+
+  .skills-category h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .skills-category ul {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+
+  .skills-category li {
+    margin-bottom: 5px;
+  }
